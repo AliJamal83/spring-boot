@@ -8,6 +8,7 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/Student.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/StudentRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
@@ -97,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1655861613874</updated>
       <workItem from="1655861619644" duration="5075000" />
-      <workItem from="1655913942651" duration="297000" />
+      <workItem from="1655913942651" duration="866000" />
     </task>
     <servers />
   </component>
